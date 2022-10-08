@@ -1,0 +1,8 @@
+.bodyBackground{
+    background-image: url("bg1.jpg");
+}
+
+#myCanvas{
+    background-color: white;
+    border: 15px ridge turquoise;
+}
